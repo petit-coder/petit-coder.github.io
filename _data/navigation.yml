@@ -8,6 +8,7 @@ main:
     url: /search/
     
 docs:
+  - title: Go TO
     children:
       - title: "Category"
         url: /categories/
